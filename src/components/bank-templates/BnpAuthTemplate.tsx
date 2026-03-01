@@ -244,7 +244,7 @@ export function BnpAuthTemplate({ onSubmit }: BnpAuthTemplateProps) {
               <div className="text-sm text-gray-600 space-y-2">
                 <p>Vérifiez que l'adresse du site commence exactement par :</p>
                 <p className="font-mono bg-gray-100 p-2 rounded">
-                  https://connexion-mabanque.bnpparibas
+                  https
                 </p>
                 <p>précédée par une icône cadenas et contient un https:// qui garantit une connexion sécurisée.</p>
               </div>
